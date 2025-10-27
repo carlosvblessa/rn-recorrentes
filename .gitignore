@@ -1,0 +1,32 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+data/
+mlruns/
+MNIST/
+cifar-10*
+VOC*
+
+# Logs and outputs
+**/logs/*.log
+**/logs/*.txt
+
+# Arquivos compactados
+*.zip
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.pdf
+*full.csv
+
+
+# OS files
+.DS_Store
+Thumbs.db

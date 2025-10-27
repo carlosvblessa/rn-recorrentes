@@ -1,0 +1,7 @@
+matplotlib
+numpy
+scikit-learn
+seaborn
+spacy
+torch
+torchtext
