@@ -1,7 +1,10 @@
-matplotlib
-numpy
-scikit-learn
-seaborn
-spacy
-torch
-torchtext
+numpy==1.26.4
+torch==1.13.1
+torchtext==0.6.0
+spacy==3.7.5
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.7.2
+sentencepiece==0.2.1
+ipykernel==6.29.5
+jupyterlab==4.2.5
