@@ -7,6 +7,8 @@ venv/
 .env
 
 data/
+.data/
+.vector_cache/
 mlruns/
 MNIST/
 cifar-10*
